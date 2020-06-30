@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "538573640638",
+    "firebase_url": "https://solus-32db2.firebaseio.com",
+    "project_id": "solus-32db2",
+    "storage_bucket": "solus-32db2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538573640638:android:d122835233ed54508adfef",
+        "android_client_info": {
+          "package_name": "com.CartesianConsulting.Solus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538573640638-74m4ta10aa174gs9jssiiugim2bb4j9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZcoGL171PhBGLzUc9DrUrWJs9vEF7YSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538573640638-74m4ta10aa174gs9jssiiugim2bb4j9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
