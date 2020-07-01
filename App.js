@@ -3,7 +3,7 @@ import { createStackNavigator } from 'react-navigation-stack';
 import LoginScreen from './src/screens/Solus';
 import MainScreen from "./src/screens/MainScreen";
 import Push from "./src/screens/AppContainer";
-import Swipe from "./src/screens/SwiperComponent";
+
 
 
 
