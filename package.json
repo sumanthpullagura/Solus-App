@@ -15,7 +15,7 @@
     "expo-permissions": "~8.1.0",
     "expo-push-notification-helper": "^0.4.0",
     "firebase": "^7.9.0",
-    "highcharts": "^8.1.0",
+    "highcharts": "^8.1.1",
     "highcharts-react-official": "^3.0.0",
     "moment": "^2.25.3",
     "native-base": "^2.13.12",
