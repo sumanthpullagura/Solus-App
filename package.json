@@ -17,7 +17,7 @@
     "firebase": "^7.9.0",
     "highcharts": "^8.1.0",
     "highcharts-react-official": "^3.0.0",
-    "moment": "^2.25.3",
+    "moment": "^2.29.4",
     "native-base": "^2.13.12",
     "react": "~16.9.0",
     "react-d3-cloud": "^0.7.0",
